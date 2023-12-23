@@ -1,0 +1,4 @@
+https://github.com/UlyssesWu/FreeMote/issues/87
+https://github.com/Manicsteiner/KaleidoKeyFinderSwitch
+
+PsbDecompile info-psb -k 5fWhAHt4zVn2X scenario_info.psb.m
